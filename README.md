@@ -28,12 +28,19 @@ LABVIEW version 19.0+, LABVIEW IMAQdx 19.0+ ([check compatability](https://www.n
 [1 of Thorlabs GPS011 2D Galvo System Linear Power Supply](https://www.thorlabs.com/thorproduct.cfm?partnumber=GPS011)\
 [1 of Semrock FF505-SDi01-25x36](https://www.semrock.com/FilterDetails.aspx?id=2167)\
 [1 of Semrock FF605-Di02-25x36](https://www.semrock.com/FilterDetails.aspx?id=2838)\
-[1 of NI USB6211]()\
-[1 of NIUSB6009]()\
-[1 of Diagnostic Instruments Boom Stand]()\
+[1 of NI USB6211](https://www.ni.com/en-us/support/model.usb-6211.html)\
+[1 of NI USB6009](https://www.ni.com/en-us/support/model.usb-6009.html)\
+[1 of Emergent Vision Technology HS-2000M-RA CMOS Camera](https://emergentvisiontec.com/products/area-scan-cameras/10-gige-area-scan-cameras-hr-series/)\
+[1 of Thorlabs CLR1 Rotatable Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=CLR1#ad-image-0)\
+[1 of 10 GigE Network Interface Card](https://emergentvisiontec.com/products/accessories/interface-cards/)\
+[1 of 3-meter SFP+ Ethernet Cable 10G-SFPDA-3M](https://emergentvisiontec.com/support/)\
+[1 of Thorlabs Adjustable Collimation Tube LTN330-A](https://www.thorlabs.com/thorproduct.cfm?partnumber=LTN330-A)\
+[1 of Thorlabs linear polarizer LPVIS100](https://www.thorlabs.com/thorproduct.cfm?partnumber=LPVIS100)\
+[1 of Thorlabs 660-nm Benchtop Laser Source](https://www.thorlabs.com/thorproduct.cfm?partnumber=S1FC660)\
+1 of Diagnostic Instruments Boom Stand
 
 ## Reagents
-[1 of rodent](http://www.mta.info/nyct)\
+[1 of rodent](http://www.mta.info/nyct)
 
 ## Usage
 

@@ -8,6 +8,7 @@
 
 ### Optical Coherence Tomography (OCT)
 [1 of Thorlabs LS2000B 1325-nanometer (infrared) Extended Bandwidth SLD Source](https://www.thorlabs.com/thorproduct.cfm?partnumber=LS2000B)\
+[1 of Thorlabs VRC2 Detector Card](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=296&pn=VRC2)\
 1 of Custom Aluminum Mount
 
 ### Intrinsic Optical Imaging (IOS)
@@ -33,15 +34,11 @@
 [1 of Thorlabs LPVIS100 Linear Polarizer](https://www.thorlabs.com/thorproduct.cfm?partnumber=LPVIS100)
 
 ### Optogenetic Stimulation
-[1 of Thorlabs TCLDM9 Thermoelectric Cooled Laser Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=TCLDM9)\
-[1 of Thorlabs LP450-SF15 Laser Diode](https://www.thorlabs.com/thorproduct.cfm?partnumber=LP450-SF15)\
+[1 of Laserglow R471003FX Laser System, 100mW, <3% RMS, standard modulation](https://www.laserglow.com/product/R47-M-473-nm-DPSS-Laser-System)\
 [1 of Thorlabs GPS011 2D Galvo System Linear Power Supply](https://www.thorlabs.com/thorproduct.cfm?partnumber=GPS011)\
-[1 of Thorlabs LDC220C Benchtop Laser Driver Current Controller](https://www.thorlabs.com/thorproduct.cfm?partnumber=LDC220C)\
-[1 of Thorlabs TED220C Benchtop Temperature Controller](https://www.thorlabs.com/thorproduct.cfm?partnumber=TED200C)\
 [1 of Thorlabs CXY1 XY Translating Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=CXY1#ad-image-0)
 
 ### Shared Use
-[1 of Thorlabs VRC2 Detector Card](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=296&pn=VRC2)\
 [2 of Thorlabs CM1-DCH Dichroic Cage Cube](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6079&pn=CM1-DCH)\
 [2 of Thorlabs SM1T2 Lens Tube Coupler](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2704&pn=SM1T2)\
 [1 of Thorlabs CP02 Cage Plate](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP02)\
@@ -53,6 +50,7 @@
 [1 of Dell Optiplex 7060 Tower](https://www.dell.com/en-us/work/shop/cty/optiplex-7060-tower-and-small-form-factor/spd/optiplex-7060-desktop)\
 [1 of Dell U2719D 27" Monitor](https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-monitor-u2719d/apd/210-arcv)\
 [1 of Rocketfish RF825VA Power Supply Unit](https://www.rocketfishproducts.com/pdp/RF825VA/9486683)\
+1 of calibration target like [Thorlabs R1DS1P U.S. Air Force Target](https://www.thorlabs.com/thorproduct.cfm?partnumber=R1DS1P)\
 1 of Diagnostic Instruments Boom Stand\
 McMaster-Carr Hex Bolts
 

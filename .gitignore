@@ -1,3 +1,7 @@
+## Data Files
+*.mat
+post-processing/experiment-output/
+
 ## C Files
 # Prerequisites
 *.d

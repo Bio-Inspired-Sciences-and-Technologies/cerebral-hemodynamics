@@ -10,9 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="HighSpeed_HemDyn_ClosedLoop17_MultiVesselsMultiDir_2DPSF.vi" Type="VI" URL="../tissue-structure-map_angiogram_blood-doppler-velocity/HighSpeed_HemDyn_ClosedLoop17_MultiVesselsMultiDir_2DPSF.vi"/>
 		<Item Name="LiveMode.vi" Type="VI" URL="../blood-oxygenation/AndorSDK3/Examples/LiveMode.vi"/>
-		<Item Name="measure_blood-oxygenation.vi" Type="VI" URL="../blood-oxygenation/measure_blood-oxygenation.vi"/>
+		<Item Name="measure_blood-oxygenation_tissue-structure-map_angiogram_blood-doppler-velocity.vi" Type="VI" URL="../measure_blood-oxygenation_tissue-structure-map_angiogram_blood-doppler-velocity.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
@@ -184,7 +183,6 @@
 				<Item Name="DialogTypeEnum.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/DialogTypeEnum.ctl"/>
 				<Item Name="Directory of Top Level VI.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Directory of Top Level VI.vi"/>
 				<Item Name="Draw Flattened Pixmap.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Flattened Pixmap.vi"/>
-				<Item Name="Draw Rectangle.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rectangle.vi"/>
 				<Item Name="DTbl Digital Size.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Digital Size.vi"/>
 				<Item Name="DTbl Uncompress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DTblOps.llb/DTbl Uncompress Digital.vi"/>
 				<Item Name="DWDT Uncompress Digital.vi" Type="VI" URL="/&lt;vilib&gt;/Waveform/DWDTOps.llb/DWDT Uncompress Digital.vi"/>
@@ -277,7 +275,6 @@
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="SessionLookUp.vi" Type="VI" URL="/&lt;vilib&gt;/vision/driver/DLLCalls.llb/SessionLookUp.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
-				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
@@ -309,7 +306,6 @@
 			<Item Name="(SubVI)_2DPSF_CreateFile_v17.vi" Type="VI" URL="../tissue-structure-map_angiogram_blood-doppler-velocity/(SubVI)_2DPSF_CreateFile_v17.vi"/>
 			<Item Name="(SubVI)_2Dsave_bin_BD_MultiVessel_Ver12.vi" Type="VI" URL="../tissue-structure-map_angiogram_blood-doppler-velocity/(SubVI)_2Dsave_bin_BD_MultiVessel_Ver12.vi"/>
 			<Item Name="(SubVI)_2Dsave_bin_BD_Ver6.vi" Type="VI" URL="../tissue-structure-map_angiogram_blood-doppler-velocity/(SubVI)_2Dsave_bin_BD_Ver6.vi"/>
-			<Item Name="(SubVI)_2Dstart_BD_ver9_two_daqs.vi" Type="VI" URL="../tissue-structure-map_angiogram_blood-doppler-velocity/(SubVI)_2Dstart_BD_ver9_two_daqs.vi"/>
 			<Item Name="(SubVI)_2Dstart_BD_ver10_two_daqs.vi" Type="VI" URL="../blood-oxygenation/(SubVI)_2Dstart_BD_ver10_two_daqs.vi"/>
 			<Item Name="(SubVI)_2Dstart_BD_ver16_transfering_MultiVesselsMultiDir_OnePatch.vi" Type="VI" URL="../tissue-structure-map_angiogram_blood-doppler-velocity/(SubVI)_2Dstart_BD_ver16_transfering_MultiVesselsMultiDir_OnePatch.vi"/>
 			<Item Name="(SubVI)_Average.vi" Type="VI" URL="../tissue-structure-map_angiogram_blood-doppler-velocity/(SubVI)_Average.vi"/>

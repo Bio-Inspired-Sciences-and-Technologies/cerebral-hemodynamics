@@ -6,40 +6,64 @@
 
 ## Equipment
 
-### Optical Coherence Tomography (OCT)
+### Spectral Domain Optical Coherence Tomography (SD-OCT): tissue structure map, angiogram, blood doppler velocity
 [1 of Thorlabs LS2000B 1325-nanometer (infrared) Extended Bandwidth SLD Source](https://www.thorlabs.com/thorproduct.cfm?partnumber=LS2000B)\
 [1 of Thorlabs FC1310-70-50-APC 2x2 Broadband SM Coupler 1310 ± 70 nm, 50:50 Split](https://www.thorlabs.com/thorproduct.cfm?partnumber=FC1310-70-50-APC)\
 [1 of Thorlabs VRC2 Detector Card](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=296&pn=VRC2)\
-1 of Custom Aluminum Mount
+[1 of Thorlabs GVS002 2D Galvo System](https://www.thorlabs.com/thorproduct.cfm?partnumber=GVS002)\
+[2 of Thorlabs P3-980A-FC-2 Single Mode Patch Cable](https://www.thorlabs.com/thorproduct.cfm?partnumber=P3-980A-FC-2)\
+[1 of Thorlabs XE25C9 )Enclosure with Black Hardboard Panels](https://www.thorlabs.com/thorproduct.cfm?partnumber=XE25C9)\
+[1 of Thorlabs RDF1 Rubber Damping Feet](https://www.thorlabs.com/thorproduct.cfm?partnumber=RDF1)\
+[1 of Thorlabs BA2 Mounting Base](https://www.thorlabs.com/thorproduct.cfm?partnumber=BA2#ad-image-0)\
+[8 of Thorlabs BA1 Mounting Base](https://www.thorlabs.com/thorproduct.cfm?partnumber=BA1)\
+[3 of Thorlabs BA1S Mounting Base](https://www.thorlabs.com/thorproduct.cfm?partnumber=BA1S#ad-image-0)\
+1 Thorlabs Linear Stage\
+1 of Goodrich (defunct) LDH2 Line CCD\
+1 of Wasatch Photonics transmission grating\
+1 of Custom Aluminum Mount for 2D Galvo\
+4 of Thorlabs 6"-long Ø1/2" Optical Posts\
+4 small posts\
+7 medimum posts\
+1 extra long post\
+11 post holders
 
-### Intrinsic Optical Imaging (IOS)
+### Intrinsic Optical Imaging (IOS): blood oxygenation
 [1 of Andor Zyla 4.2 sCMOS Camera](https://andor.oxinst.com/products/scmos-camera-series/zyla-4-2-scmos)\
 [1 of Thorlabs LEDD1B LED Driver](https://www.thorlabs.com/thorproduct.cfm?partnumber=LEDD1B)\
 [1 of Thorlabs DC2100 LED Driver](https://www.thorlabs.com/thorproduct.cfm?partnumber=DC2100)\
 [1 of Thorlabs M530L4 530-nanometer (green) LEDs](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2692&pn=M530L4)\
 [1 of Thorlabs M625L4 625-nanometer (red) LEDs](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2692&pn=M625L4)\
 [1 of Thorlabs CM1-DCH Dichroic Cage Cube](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6079&pn=CM1-DCH)\
+[1 of Thorlabs AC254-045-A-ML Mounting Cell](https://www.thorlabs.com/thorproduct.cfm?partnumber=AC254-045-A-M)
 [1 of Semrock FF605-Di02-25x36 605-nanometer Dichroic Beamsplitter](https://www.semrock.com/FilterDetails.aspx?id=2838)\
+1 of Thorlabs 6"-long Ø1/2" Optical Post\
+[1 of Thorlabs SWC Rotating Clamp](https://www.thorlabs.com/thorproduct.cfm?partnumber=SWC)
 2 of DIY SM1-Threaded Collimation Assembly:\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2 of Thorlabs ACL2520U-A Aspheric Condenser Lens](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=3835&pn=ACL2520U-A)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2 of Thorlabs SM1V05 Lens Tubes with Rotating Optic Adjustment](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=4109&pn=SM1V05)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[2 of Thorlabs SM1L03 Stackable Lens Tube](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=3307&pn=SM1L03)
 
-### Laser Speckle Contrast Imaging (LSCI)
+### Laser Speckle Contrast Imaging (LSCI): blood relative velocity
 [1 of Emergent Vision Technology HS-2000M-RA CMOS Camera](https://emergentvisiontec.com/products/area-scan-cameras/10-gige-area-scan-cameras-hr-series/)\
 [1 of Thorlabs S1FC660 660-nanometer (red) Benchtop Laser Source](https://www.thorlabs.com/thorproduct.cfm?partnumber=S1FC660)\
 [1 of Myricom 10-Gigabit Ethernet Network Interface Card](https://emergentvisiontec.com/products/accessories/interface-cards/)\
 [1 of 10G-SFPDA-3M 10-Gigabit Ethernet 3-meter SFP+ Cable](https://emergentvisiontec.com/support/)\
 [1 of Thorlabs CLR1 Rotatable Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=CLR1#ad-image-0)\
 [1 of Thorlabs LTN330-A Adjustable Collimation Tube](https://www.thorlabs.com/thorproduct.cfm?partnumber=LTN330-A)\
-[1 of Thorlabs LPVIS100 Linear Polarizer](https://www.thorlabs.com/thorproduct.cfm?partnumber=LPVIS100)
+[1 of Thorlabs LPVIS100 Linear Polarizer](https://www.thorlabs.com/thorproduct.cfm?partnumber=LPVIS100)\
+3 of Thorlabs 6"-long Ø1/2" Optical Posts\
+[2 of Thorlabs RA90 Right-Angle Clamp](https://www.thorlabs.com/thorproduct.cfm?partnumber=RA90)
 
-### Optogenetic Stimulation
+
+### Optogenetic Stimulation: neuron activity
 [1 of Laserglow R471003FX Laser System, 100mW, <3% RMS, standard modulation](https://www.laserglow.com/product/R47-M-473-nm-DPSS-Laser-System)\
+[1 of Thorlabs P5-SMF28E-FC-1 Single Mode Patch Cable](https://www.thorlabs.com/thorproduct.cfm?partnumber=P5-SMF28E-FC-1)
+[1 of Thorlabs CP02 SM1-Threaded 30 mm Cage Plate](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP02)\
+[1 of Thorlabs CXY1 XY Translating Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=CXY1#ad-image-0)\
 [1 of Thorlabs GPS011 2D Galvo System Linear Power Supply](https://www.thorlabs.com/thorproduct.cfm?partnumber=GPS011)\
-[1 of Thorlabs CXY1 XY Translating Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=CXY1#ad-image-0)
+1 of TE-Lighting (defunct) PT-20K scanner galvo system
 
-### Shared Use
+### Shared Use: world destruction
 [1 of Thorlabs CM1-DCH Dichroic Cage Cube](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6079&pn=CM1-DCH)\
 [1 of Thorlabs DFM1 Kinematic Filter Cube](https://www.thorlabs.com/thorproduct.cfm?partnumber=DFM1)\
 [2 of Thorlabs SM1T2 Lens Tube Coupler](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2704&pn=SM1T2)\

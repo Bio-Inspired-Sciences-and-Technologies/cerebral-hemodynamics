@@ -5,6 +5,7 @@
 *Fig. 2: Full multi-modal imaging system. IOS LEDs (left), OCT (2nd from left), IOS/LSCI camera (third from left), LSCI laser (fourth from left), stimulation laser (right).*
 
 ## Equipment
+Product manuals are available en masse [here](https://www.dropbox.com/sh/wkoy3l9l833bwhz/AAAZhzxYmdZFZdFliv9ygRe8a?dl=0) or à la carte (below).
 
 ### Spectral Domain Optical Coherence Tomography (SD-OCT): tissue structure map, angiogram, blood doppler velocity
 [1 of Thorlabs LS2000B 1325-nanometer (infrared) Extended Bandwidth SLD Source](https://www.thorlabs.com/thorproduct.cfm?partnumber=LS2000B)\
@@ -12,7 +13,7 @@
 [1 of Thorlabs VRC2 Detector Card](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=296&pn=VRC2)\
 [1 of Thorlabs GVS002 2D Galvo System](https://www.thorlabs.com/thorproduct.cfm?partnumber=GVS002)\
 [2 of Thorlabs P3-980A-FC-2 Single Mode Patch Cable](https://www.thorlabs.com/thorproduct.cfm?partnumber=P3-980A-FC-2)\
-[1 of Thorlabs XE25C9 )Enclosure with Black Hardboard Panels](https://www.thorlabs.com/thorproduct.cfm?partnumber=XE25C9)\
+[1 of Thorlabs XE25C9 Enclosure with Black Hardboard Panels](https://www.thorlabs.com/thorproduct.cfm?partnumber=XE25C9)\
 [1 of Thorlabs RDF1 Rubber Damping Feet](https://www.thorlabs.com/thorproduct.cfm?partnumber=RDF1)\
 [1 of Thorlabs BA2 Mounting Base](https://www.thorlabs.com/thorproduct.cfm?partnumber=BA2#ad-image-0)\
 [8 of Thorlabs BA1 Mounting Base](https://www.thorlabs.com/thorproduct.cfm?partnumber=BA1)\
@@ -23,7 +24,7 @@
 1 of Custom Aluminum Mount for 2D Galvo\
 4 of Thorlabs 6"-long Ø1/2" Optical Posts\
 4 small posts\
-7 medimum posts\
+7 medium posts\
 1 extra long post\
 11 post holders
 
@@ -45,7 +46,7 @@
 
 ### Laser Speckle Contrast Imaging (LSCI): blood relative velocity
 [1 of Emergent Vision Technology HS-2000M-RA CMOS Camera](https://emergentvisiontec.com/products/area-scan-cameras/10-gige-area-scan-cameras-hr-series/)\
-[1 of Thorlabs S1FC660 660-nanometer (red) Benchtop Laser Source](https://www.thorlabs.com/thorproduct.cfm?partnumber=S1FC660)\
+[1 of Thorlabs S1FC660 660-nanometer (red) Bench top Laser Source](https://www.thorlabs.com/thorproduct.cfm?partnumber=S1FC660)\
 [1 of Myricom 10-Gigabit Ethernet Network Interface Card](https://emergentvisiontec.com/products/accessories/interface-cards/)\
 [1 of 10G-SFPDA-3M 10-Gigabit Ethernet 3-meter SFP+ Cable](https://emergentvisiontec.com/support/)\
 [1 of Thorlabs CLR1 Rotatable Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=CLR1#ad-image-0)\
@@ -54,14 +55,13 @@
 3 of Thorlabs 6"-long Ø1/2" Optical Posts\
 [2 of Thorlabs RA90 Right-Angle Clamp](https://www.thorlabs.com/thorproduct.cfm?partnumber=RA90)
 
-
 ### Optogenetic Stimulation: neuron activity
 [1 of Laserglow R471003FX Laser System, 100mW, <3% RMS, standard modulation](https://www.laserglow.com/product/R47-M-473-nm-DPSS-Laser-System)\
 [1 of Thorlabs P5-SMF28E-FC-1 Single Mode Patch Cable](https://www.thorlabs.com/thorproduct.cfm?partnumber=P5-SMF28E-FC-1)
 [1 of Thorlabs CP02 SM1-Threaded 30 mm Cage Plate](https://www.thorlabs.com/thorproduct.cfm?partnumber=CP02)\
 [1 of Thorlabs CXY1 XY Translating Lens Mount](https://www.thorlabs.com/thorproduct.cfm?partnumber=CXY1#ad-image-0)\
 [1 of Thorlabs GPS011 2D Galvo System Linear Power Supply](https://www.thorlabs.com/thorproduct.cfm?partnumber=GPS011)\
-1 of TE-Lighting (defunct) PT-20K scanner galvo system
+[1 of TE-Lighting (defunct) PT-20K scanner galvo system](https://www.icloud.com/iclouddrive/0mXSNYJlmT8NWdxlmkRKsv3hA#20K_Scanners)
 
 ### Shared Use: world destruction
 [1 of Thorlabs CM1-DCH Dichroic Cage Cube](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6079&pn=CM1-DCH)\
